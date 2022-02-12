@@ -1,7 +1,7 @@
 # MovieListClean
 CleanArchitectureMVVMJetcpack
 
-Clean Architecture
-MVVM
-Jetcpack Libraries
+Clean Architecture+
+MVVM+
+Jetcpack Libraries+
 SQl encrypter
