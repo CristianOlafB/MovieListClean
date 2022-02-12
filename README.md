@@ -4,4 +4,5 @@ CleanArchitectureMVVMJetcpack
 Clean Architecture+
 MVVM+
 Jetcpack Libraries+
-SQl encrypter
+SQl encrypter+
+mockwebserver TEST
